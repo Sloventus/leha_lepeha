@@ -18,8 +18,6 @@ public class ForTesting {
 
         System.out.println(bank.allMoney());
         System.out.println(bank.getBlackList().size());
-
-        System.out.println("qwert");
     }
 
     private static void thousandRandomTransactions(HashMap<String, Client> bookBank, Bank bank) {
